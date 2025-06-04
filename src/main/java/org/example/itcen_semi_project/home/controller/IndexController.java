@@ -1,4 +1,4 @@
-package org.example.itcen_semi_project.controller;
+package org.example.itcen_semi_project.home.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
