@@ -1,4 +1,4 @@
-package org.example.itcen_semi_project.member.controller.api;
+package org.example.itcen_semi_project.member.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
