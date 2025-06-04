@@ -1,5 +1,6 @@
 # ITCEN SemiProject
 
+[![deploy ec2 semiproject](https://github.com/Bzeromo/ITCEN_semi_project/actions/workflows/deploy_semiproject.yml/badge.svg)](https://github.com/Bzeromo/ITCEN_semi_project/actions/workflows/deploy_semiproject.yml)
 ---
 
 ## **🎯 프로젝트 개요**
